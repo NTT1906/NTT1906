@@ -1,16 +1,11 @@
-### Hi there 👋
+<div align="center">
+	<h2>Hello everyone.</h2>
+</div>
+<div align=center>
+	<a href="https://github.com/NTT1906/MineGen">
+		<img src="https://raw.githubusercontent.com/NTT1906/NTT1906/master/logo.png">
+	</a>
+</div>
 
-<!--
-**NTT1906/NTT1906** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Hi everyone, I'm NTT and I'm a 15 year old student. I am a student specializing in Physics but I have a fun with coding. I know Php and I am learning more....<br>
+- Thanks for reading this <3
