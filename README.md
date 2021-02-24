@@ -7,5 +7,7 @@
 	</a>
 </div>
 
-- Hi everyone, I'm NTT and I'm a 15 year old student. I am a student specializing in Physics but I have a fun with coding. I know Php and I am learning more....<br>
+- Hi everyone, thanks for visiting ❤
+I'm a student so i'm very bad.
+But welcome to my github and have a good day 👍....<br>
 - Thanks for reading this <3
