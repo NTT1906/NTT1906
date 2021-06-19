@@ -5,6 +5,7 @@
 I'm a student so i'm not good at coding nor
 english but thank you for wasting your time
 at my github :D<sub><sub><sub><sub><b>i mean real welcome :'></b></sub></sub></sub></sub>
+</div>
 <a href="https://github.com/NTT1906">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=NTT1906&theme=dark&show_icons=true" />
 </a>
