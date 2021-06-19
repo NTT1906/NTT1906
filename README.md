@@ -3,7 +3,7 @@
 
 - Hi everyone, thanks for visiting ❤️ <br>
 I'm a student so i'm not good at coding nor
-english but thank you for waste your time
+english but thank you for wasting your time
 at my github :D
 <sub><sub><sub><sub><sub><sub><sub><sub><sub><sub><b>i mean real welcome :'></b></sub></sub></sub></sub></sub></sub></sub></sub></sub></sub>
 
