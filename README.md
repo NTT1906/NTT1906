@@ -11,3 +11,7 @@
 I'm a student so i'm very bad.
 But welcome to my github and have a good day 👍....<br>
 - Thanks for reading this <3
+### Nice just discovered this
+[![NTT1906's GitHub stats](https://github-readme-stats.vercel.app/api?username=NTT1906&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NTT1906&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
