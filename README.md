@@ -1,5 +1,5 @@
 <div align="left">
-    <h2 align="center">Hi everyone. I'm NTT</h2>
+    <h2 align="center">Hi everyone. I'm Arisus</h2>
 
 - Hi everyone, thanks for visiting ❤️. <br>
 I'm a student so i'm not good at coding nor
