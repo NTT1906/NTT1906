@@ -9,6 +9,6 @@ at my github :D<sub><sub><sub><sub><b>i mean real welcome :'></b></sub></sub></s
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=NTT1906&theme=dark&show_icons=true" />
 </a>
 <a href="https://github.com/NTT1906">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NTT1906&theme=dark&show_icons=true&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NTT1906&theme=dark&show_icons=true&layout=compact&hide=css,html" />
 </a>
 </div>
