@@ -8,3 +8,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NTT1906&theme=dark&show_icons=true&layout=compact&hide=css,html" />
 </a>
 </div>
+
+i'm sad :C
