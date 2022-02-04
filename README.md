@@ -9,4 +9,4 @@
 </a>
 </div>
 
-i'm :D
+i'm not a web developers D:
