@@ -15,7 +15,7 @@
   <i>i might slow to response...</i>
 
   <p align="center">
-	<code><a href="https://discord.gg/rstBvyWMKW"><img width="30px" src="../icon/discord.png" title="Linkedin"/></a></code>
+	<code><a href="https://discord.gg/rstBvyWMKW"><img width="30px" src="../icon/discord.png" title="Discord Server"/></a></code>
 	<code><a href="https://twitter.com/Arie19062"><img width="30px" src="../icon/twitter.png" title="Twitter"/></a></code>
 	<code><a href="mailto:nttislinked@gmail.com"><img width="30px" src="../icon/gmail.png" title="Gmail"/></a></code>
   </p>
