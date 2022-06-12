@@ -1,12 +1,7 @@
-![](https://komarev.com/ghpvc/?username=NTT1906)
-<div align="left">
-    <h2 align="center">Hi incomers</h2>
-<a href="https://github.com/NTT1906">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=NTT1906&theme=dark&show_icons=true" />
-</a>
-<a href="https://github.com/NTT1906">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NTT1906&theme=dark&show_icons=true&layout=compact&hide=css,html" />
-</a>
-</div>
 
-i'm sad :C
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ntt1906&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222D&title_color=F85D7F&icon_color=F8D866&hide=css,html"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ntt1906&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=1F222D&hide=css,html&title_color=F85D7F&icon_color=F8D866"/>
+</p>
+
+<img alt="Arie's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=NTT1906&custom_title=Arie's%20Contribution%20Graph&bg_color=1F222D&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
