@@ -1,4 +1,4 @@
-geometry:1.14.0:{
+geometry:1.16.0:{
     version "format_version"
     bool "debug" : opt
     array "minecraft:geometry"[1,*]
@@ -139,6 +139,7 @@ geometry:1.14.0:{
                             }
                         }
                     }
+                    molang "binding" : opt // useful for items.  A molang expression specifying the bone name of the parent skeletal hierarchy that this bone should use as the root transform.  Without this field it will look for a bone in the parent entity with the same name as this bone.  If both are missing, it will assume a local skeletal hierarchy (via the "parent" field).  If that is also missing, it will attach to the owning entity's root transform.
                     object "locators" : opt
                     {
                         array "<identifier>" : opt // This is a list of locators associated with this bone.  A locator is a point in model space that tracks a particular bone as the bone animates (by maintaining it's relationship to the bone through the animation).
