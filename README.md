@@ -1,4 +1,4 @@
-# 𓅱 🐧
+# 𓅱 bird
 ### Contacts:<br>
 
 Discord: [Arie1906](https://discord.com/users/584974376454324236)<br>
