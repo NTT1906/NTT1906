@@ -3,7 +3,7 @@
 
 Discord: [Arie1906](https://discord.com/users/584974376454324236)<br>
 Facebook: [meodilac.001](https://www.facebook.com/meodilac.001)<br>
-Telegram: [arie1906](https://t.me/arie1906)
+Telegram: [arie1906](https://t.me/arie1906)<br>
 Gmail: skymin468@gmail.com
 
 <p align="center">
