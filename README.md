@@ -1,4 +1,10 @@
 # 𓅱 🐧
+### Contacts:<br>
+
+Discord: [Arie1906](https://discord.com/users/584974376454324236)<br>
+Facebook: [meodilac.001](https://www.facebook.com/meodilac.001)<br>
+Telegram: [arie1906](https://t.me/arie1906)
+
 <p align="center">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ntt1906&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222D&title_color=F85D7F&icon_color=F8D866&hide=css,html"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ntt1906&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=1F222D&hide=css,html&title_color=F85D7F&icon_color=F8D866"/>
