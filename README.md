@@ -1,7 +1,6 @@
 <div align="center">
 
-# 𓅱 Hi there, I'm Arie!
-  
+# Hi there, I'm Arie!
 <!-- Contact Information Row -->
 <p>
   <a href="https://discord.com/users/584974376454324236">
@@ -14,9 +13,10 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
----
-
+<picture width="100%">
+  <source srcset="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=10&duration=499&pause=100&color=000000&center=true&random=true&width=435&lines=%2B;-;*;%2F;%25;%5E;%F0%93%85%B1" media="(prefers-color-scheme: light)"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=10&duration=499&pause=100&color=FFFFFF&center=true&random=true&width=435&lines=%2B;-;*;%2F;%25;%5E;%F0%93%85%B1" />
+</picture>
 <!-- Stats Grid -->
 <table>
   <tr>
@@ -45,8 +45,6 @@
   </tr>
 </table>
 
----
-
 <p align="center">
   ／l、  <br>
   （ﾟ､ ｡ ７  <br>
@@ -54,6 +52,4 @@
    ⠀⠀じしf_,)ノ <br>
   ⠀⠀⠀⠀<sub>miau?</sub>
 </p>
-
 </div>
-
