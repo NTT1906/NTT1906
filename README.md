@@ -28,8 +28,8 @@
     </td>
     <td width="50%" align="center">
       <picture>
-        <source srcset="https://helio-github-stats.vercel.app/api/top-langs/?username=ntt1906&theme=react&hide_border=true&bg_color=ffffff&title_color=F85D7F&text_color=000000&icon_color=F8D866&card_width=500px&count_private=true&langs_count=8&hide=css,html&layout=compact&PAT_1" media="(prefers-color-scheme: light)"/>
-        <img src="https://helio-github-stats.vercel.app/api/top-langs/?username=ntt1906&theme=react&hide_border=true&bg_color=0d1117&title_color=F85D7F&icon_color=F8D866&card_width=500px&count_private=true&langs_count=8&hide=css,html&layout=compact&PAT_1" width="100%" />
+        <source srcset="https://helio-github-stats.vercel.app/api/top-langs/?username=ntt1906&theme=react&hide_border=true&bg_color=ffffff&title_color=F85D7F&text_color=000000&icon_color=F8D866&card_width=500px&count_private=true&langs_count=8&hide=css%2Chtml&layout=compact&PAT_1" media="(prefers-color-scheme: light)"/>
+        <img src="https://helio-github-stats.vercel.app/api/top-langs/?username=ntt1906&theme=react&hide_border=true&bg_color=0d1117&title_color=F85D7F&icon_color=F8D866&card_width=500px&count_private=true&langs_count=8&hide=css%2Chtml&layout=compact&PAT_1" width="100%" />
       </picture>
     </td>
   </tr>
