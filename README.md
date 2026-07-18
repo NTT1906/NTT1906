@@ -8,8 +8,8 @@
   <a href="mailto:nttispay@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 <picture width="100%">
-  <source srcset="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=10&duration=499&pause=100&color=000000&center=true&random=true&width=435&lines=%2B;-;*;%2F;%25;%5E;%F0%93%85%B1" media="(prefers-color-scheme: light)"/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=10&duration=499&pause=100&color=FFFFFF&center=true&random=true&width=435&lines=%2B;-;*;%2F;%25;%5E;%F0%93%85%B1" />
+  <source srcset="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=10&duration=499&pause=100&color=000000&center=true&random=true&width=435&lines=%2B;-;*;%2F;%25;%5E;%F0%93%85%B1;A;B;C;D;E;F;G;H;I;J;K;L;M;N;O;P;Q;R;S;T;U;V;W;X;Y;Z;a;b;c;d;e;f;g;h;i;j;k;l;m;n;o;p;q;r;s;t;u;v;w;x;y;z" media="(prefers-color-scheme: light)"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=10&duration=499&pause=100&color=FFFFFF&center=true&random=true&width=435&lines=%2B;-;*;%2F;%25;%5E;%F0%93%85%B1;A;B;C;D;E;F;G;H;I;J;K;L;M;N;O;P;Q;R;S;T;U;V;W;X;Y;Z;a;b;c;d;e;f;g;h;i;j;k;l;m;n;o;p;q;r;s;t;u;v;w;x;y;z" />
 </picture>
 <!-- Stats Grid -->
 <table>
